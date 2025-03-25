@@ -29,6 +29,7 @@ Write an SQL query to show the total payment amount for each payment date from *
 - Display the **payment date** and the **total amount** paid on that date.  
 - Sort the results by **payment date in descending order**.  
 - Show only the **top 5 latest payment dates**.  
+![query1](query1.png)
 
 ---
 
@@ -36,14 +37,14 @@ Write an SQL query to show the total payment amount for each payment date from *
 Write an SQL query to find the average credit limit of each customer from **customers** table.  
 - Display the **customer name**, **country**, and the **average credit limit**.  
 - Group the results by **customer name and country**.  
-
+![query2](query2.png)
 ---
 
 ### **Question 3**  
 Write an SQL query to find the total price of products ordered from **orderdetails** table.  
 - Display the **product code**, **quantity ordered**, and the **total price** for each product.  
 - Group the results by **product code and quantity ordered**.  
-
+![query3](query3.png)
 ---
 
 ### **Question 4** 
@@ -51,7 +52,7 @@ Write an SQL query to find the total price of products ordered from **orderdetai
 Write an SQL query to find the highest payment amount for each check number from **payments** table.  
 - Display the **check number** and the **highest amount** paid for that check number.  
 - Group the results by **check number**.  
-
+![query4](query4.png)
 ---
 
 Good luck 🚀
